@@ -1,6 +1,6 @@
 # Crop_Recommendation_System
 
-##Description
+## Description
 
 A crop recommendation system using machine learning can be incredibly beneficial for farmers and the agricultural industry.By selecting the right crops based on data-driven insights, farmers can maximize their yield and reduce the risk of crop failure.Promoting sustainable farming practices by recommending crops that are well-suited to the local environment.
 
