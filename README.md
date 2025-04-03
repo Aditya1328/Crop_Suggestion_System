@@ -1,7 +1,5 @@
 # Crop_Recommendation_System
 
-Crop Recommendation System
-Crop Recommendation System
 🌱 Crop Recommendation System – Helping Farmers Make Better Choices 🌾
 
 This project focuses on recommending the best crops based on soil type, temperature, rainfall, pH levels, and humidity. By using machine learning, the system helps farmers decide what to grow for better yield and sustainability.
