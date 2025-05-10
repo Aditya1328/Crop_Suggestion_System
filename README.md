@@ -1,6 +1,6 @@
-# Crop_Recommendation_System
+# Crop_Suggestion_System
 
-🌱 Crop Recommendation System – Helping Farmers Make Better Choices 🌾
+🌱 Crop Suggestion System – Helping Farmers Make Better Choices 🌾
 
 This project focuses on recommending the best crops based on soil type, temperature, rainfall, pH levels, and humidity. By using machine learning, the system helps farmers decide what to grow for better yield and sustainability.
 
@@ -11,7 +11,7 @@ How It Works:
 
 ## Description
 
-A crop recommendation system leveraging machine learning serves as a transformative tool for farmers and the agricultural sector. Its purpose is rooted in providing intelligent, data-driven insights to help farmers make well-informed decisions about crop selection, enabling them to optimize yield and minimize risks related to crop failure. By carefully analyzing environmental factors and embracing sustainable agricultural practices, this system suggests crops that harmonize with the local climate and soil conditions. Ultimately, it promotes sustainable farming by aligning recommendations with the regional ecosystem.
+A crop suggestion system leveraging machine learning serves as a transformative tool for farmers and the agricultural sector. Its purpose is rooted in providing intelligent, data-driven insights to help farmers make well-informed decisions about crop selection, enabling them to optimize yield and minimize risks related to crop failure. By carefully analyzing environmental factors and embracing sustainable agricultural practices, this system suggests crops that harmonize with the local climate and soil conditions. Ultimately, it promotes sustainable farming by aligning recommendations with the regional ecosystem.
 
 The system takes a range of crucial parameters into account, such as soil mineral composition, rainfall levels, temperature fluctuations, humidity, and pH levels. By thoroughly examining historical data and employing predictive algorithms, it determines the ideal crops for specific farming regions. This process helps farmers tailor their agricultural approach to maximize output while preserving long-term ecological balance and soil health. Such technologies mark a step forward in modernizing farming practices while ensuring sustainability and efficiency.
 
